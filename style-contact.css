@@ -1,0 +1,39 @@
+.cont-us-form .col-md-12 {
+    margin-bottom: 10px;
+	}
+.cont-us-form input {
+    border-radius: 0px;
+    height: 45px;
+	}
+.cont-us-form textarea {
+    height: 140px;
+    border-radius: 0px;
+    resize: unset;
+	}
+.cont-us-form input:active, 
+.cont-us-form input:focus ,
+.cont-us-form textarea:active, 
+.cont-us-form textarea:focus {
+    box-shadow: inherit !important;
+    border-color: gainsboro !important;
+	}
+.cont-us-form .snd-btn {
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: gainsboro !important;
+    color: #000 !important;
+    font-weight: 800;
+	border-color:gainsboro;
+	height:50px;
+	}
+.cont-us-form .snd-btn:active , 
+.cont-us-form .snd-btn:focus {
+    box-shadow: inherit !important;
+    border-color: gainsboro !important;
+    outline: 0px;
+    background: gainsboro !important;
+	}
+.cont-us-form  p{
+    margin: 0em; 
+    }    

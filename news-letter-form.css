@@ -1,0 +1,28 @@
+.news-form input {
+    border-radius: 0px;
+    width: 100%;
+    height: 45px;
+	}
+.news-form .col-md-12 {
+    margin-bottom: 10px;
+	}	
+.news-form .col-md-12 input[type="email"]:active ,
+.news-form .col-md-12 input[type="email"]:focus {
+	border: 1px solid #fff !important;
+	box-shadow: inherit !important;
+	}	
+.news-form .send-btn {
+    background: #ffd922;
+    border: 1px solid #ffd922;
+    color: #000;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 800;
+	}	
+.news-form .col-md-12 .send-btn:active ,
+.news-form .col-md-12 .send-btn:focus {
+	background: #ffd922;
+	border: 1px solid #ffd922;
+	box-shadow: inherit !important;
+	color: #000;
+	}	
